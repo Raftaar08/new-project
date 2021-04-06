@@ -1,0 +1,37 @@
+body{
+    background-color: #F3F1FF;
+}
+main{
+    max-width: 870px;
+
+}
+.container-fulid {
+    background-color: #FFFFFF;
+    margin-bottom: 60px;
+
+}
+
+.brand-logo{
+    width: 40px;
+}
+.player img{
+    width: 56px;
+}
+.playe img{
+    width: 100px;
+}
+.naiem{
+    color: blue;
+    
+}
+.card-text{
+    color: red;
+}
+.container{
+  
+    background-color:#FFFFFF;
+    margin-bottom: 60px;
+}
+.raftaar{
+    padding-left: 20px;
+}
